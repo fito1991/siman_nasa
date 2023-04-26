@@ -31,7 +31,7 @@ Ejecuta el siguiente comando para instalar las dependecias y la carpeta de node_
 
     $ npm install
     
-Muéve a la carpeta CLIENT usando el comando
+Muévete a la carpeta CLIENT usando el comando
 
     $ cd cliente
     
@@ -43,7 +43,7 @@ Ejecuta el siguiente comando para instalar las dependecias y la carpeta de node_
 
 Crea el archivo .env dentro de la carpeta SERVER, añade la siguiente variable de entorno
 
-  EXPRESS_API_KEY_NASA="{TU_API_KEY}"
+    EXPRESS_API_KEY_NASA="{TU_API_KEY}"
   
 Sustituye {TU_API_KEY} por la API_KEY de la NASA que puedes obtener desde este enlace
 
