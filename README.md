@@ -25,19 +25,19 @@ Verá dos carpetas en el proyecto CLIENT y SERVER
 
 Muévete a la carpeta SERVER usando el comando
 
-  $ cd server
+    $ cd server
 
 Ejecuta el siguiente comando para instalar las dependecias y la carpeta de node_modules para la carpeta del servidor
 
-  $ npm install
+    $ npm install
     
 Muéve a la carpeta CLIENT usando el comando
 
-  $ cd cliente
+    $ cd cliente
     
 Ejecuta el siguiente comando para instalar las dependecias y la carpeta de node_modules para la carpeta del cliente
 
-  $ npm install   
+    $ npm install   
    
 ## Creando archivo .env para el server
 
